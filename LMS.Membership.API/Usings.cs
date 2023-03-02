@@ -1,0 +1,9 @@
+﻿global using LMS.Common.DTOs;
+global using LMS.Membership.API.Utilities;
+global using LMS.Membership.Database.Contexts;
+global using LMS.Membership.Database.Entities;
+global using LMS.Membership.Database.Services;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using System.Text.Json;
+global using System.Text.Json.Serialization;
